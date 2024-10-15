@@ -17,11 +17,7 @@ Portfolio Optimization: Utilized expected returns, volatility, and liquidity par
 ## Tools and Libraries
 Python: NumPy, Pandas, SciPy
 Optimization Algorithms: SLSQP (Sequential Least Squares Programming) for optimizing portfolio weights.
-## Team
-Parinay Dewangan
-Preksha Jain
-Tarun Kumar
-Jayesh Ahire
+
 ## How to Use
 Clone the repository and execute the Python scripts to:
 
